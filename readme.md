@@ -7,7 +7,7 @@
 --- 
 ### Proyectos: ###  
 
-[![Perfil](https://img.shields.io/badge/Proyectos%20realizados%20en%20-CERT.ar-blue?style=plastic&link=https://www.boletinoficial.gob.ar/detalleAviso/primera/241077/20210222)](https://www.boletinoficial.gob.ar/detalleAviso/primera/241077/20210222)  
+[![Perfil](https://img.shields.io/badge/Proyectos%20realizados%20en%20-CERT.ar-blue?style=plastic&link=https://github.com/cpeic/cert-ar/)](https://github.com/cpeic/cert-ar/)  
 >• **Red Federal de Intercambio de Indicadores de Compromiso:** [CERTar - Red Federal de Intercambio](https://github.com/cert-ar/Red-Federal-de-Intercambio)  
 > • **Guia de Gestión de Incidentes**: [CERTar-RCM-GGI-001](https://github.com/cert-ar/Guias/blob/main/CERTar-RCM-GGI-001.pdf)  
 >• **Security.txt:** [CERTar - Security.txt](https://github.com/cert-ar/security.txt/)  
